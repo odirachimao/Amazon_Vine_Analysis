@@ -22,22 +22,23 @@ There are 37,385 Non-Vine Reviews.
 <img width="494" alt="No of Non-Vine Reviews " src="https://user-images.githubusercontent.com/104735724/184511980-0d4e4301-da61-458e-9f09-2ecd7638967c.png">
 
 
-2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars? What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-There are 44 vine reviews rated 5 stars.
+There are 44 vine reviews rated 5 stars or 49% of the total. 
 
 
 <img width="981" alt="Vine Reviews (5 Stars)" src="https://user-images.githubusercontent.com/104735724/184512201-eaa42880-cffa-40b9-9511-2bb653939139.png">
 
 
 
-There are 14,626 non-vine reviews rated stars. 
+There are 14,626 non-vine reviews rated stars or 39% of the total. 
 
 
-<img width="675" alt="Non Vine reviews (5 stars)" src="https://user-images.githubusercontent.com/104735724/184512562-6d0db5c0-09c0-4fc9-a06f-1305fb4a2500.png">
+<img width="983" alt="Non Vine reviews (5 stars)" src="https://user-images.githubusercontent.com/104735724/184513289-1ab0cc0b-77bc-4c4e-be15-237104ad6b7f.png">
 
 
+## RESULT SUMMARY: 
 
-3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+From our results, there is some bias for reviews in the Vine program as 49% were rated 5 stars vs. 39% of non-Vine reviews. However, with the sample size of 90 total vine reviews, the sample size is very small to conclude that. An additional analysis could also be to do a Paired t-test to compare Vine reviews and Non-Vine reviews to understand if there is a statistical difference between the two groups.
 
 
