@@ -9,14 +9,14 @@ This project analyzes the Amazon Vine program to better understand if there is a
 
 1. How many Vine reviews and non-vine reviews were there? 
 
-There are 90 Vine Reviews.
+There are ## 90 Vine Reviews.
 
 
 <img width="494" alt="No of Vine Reviews" src="https://user-images.githubusercontent.com/104735724/184511963-fb8016e6-5d10-4761-bf33-cd7a945d7903.png">
 
 
 
-There are 37,385 Non-Vine Reviews.
+There are ## 37,385 Non-Vine Reviews.
 
 
 <img width="494" alt="No of Non-Vine Reviews " src="https://user-images.githubusercontent.com/104735724/184511980-0d4e4301-da61-458e-9f09-2ecd7638967c.png">
